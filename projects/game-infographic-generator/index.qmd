@@ -1,5 +1,6 @@
 ---
 title: "Game Infographic Generator"
+order: 1
 description: "A proof of concept for turning researched game metadata into portrait infographics."
 categories: [Python, AI, Data Visualization]
 ---

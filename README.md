@@ -70,8 +70,9 @@ description, categories (technologies), status, and repository link. Clearly
 describe the idea and what you learned. The detail page supplies its own listing
 summary; no separate data file is needed. Add `image: screenshot.png` to its
 front matter for an optional card image, and use Markdown to include it in the
-page body. The project listing includes every project; the homepage currently
-shows up to two. Change its listing filter or limit when you want to curate it.
+page body. The project listing includes every project; the homepage shows all projects. Both listings sort by the `order` field in
+each project’s front matter (lower numbers appear first). Set this field on new
+projects to control their position.
 
 ## Customize
 

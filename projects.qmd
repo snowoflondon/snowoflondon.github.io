@@ -5,7 +5,7 @@ listing:
   contents: projects/*/index.qmd
   type: grid
   fields: [title, description, categories]
-  sort: title
+  sort: "order asc"
 ---
 
 A place to collect things I'm building and the lessons behind them.

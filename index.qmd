@@ -11,7 +11,7 @@ listing:
   - id: selected-projects
     contents: projects/*/index.qmd
     type: grid
-    max-items: 2
+    sort: "order asc"
     fields: [title, description, categories]
 ---
 
