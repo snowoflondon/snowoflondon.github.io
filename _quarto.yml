@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "writing/**/*.qmd"
+    - "projects/**/*.qmd"
+
+website:
+  title: "Snow of London: a brief interlude"
+  description: "Brian Jungmin Park"
+  site-url: https://snowoflondon.github.io
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: writing/index.qmd
+        text: Writing
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/snowoflondon
+        aria-label: GitHub profile
+  search: true
+  page-footer:
+    left: "© 2026 [Your name]."
+    right:
+      - text: GitHub
+        href: https://github.com/snowoflondon
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    lang: en
+    toc: false
+    code-copy: true
+    highlight-style: github
+
+execute:
+  enabled: false

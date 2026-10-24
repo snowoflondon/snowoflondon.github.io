@@ -1,0 +1,55 @@
+---
+title: "Interlude."
+subtitle: "[*noun*] A short pause or intervening period between activities."
+listing:
+  - id: recent-writing
+    contents: writing/posts/*/index.qmd
+    sort: "date desc"
+    max-items: 3
+    fields: [title, date, description]
+    date-format: "D MMM YYYY"
+  - id: selected-projects
+    contents: projects/*/index.qmd
+    type: grid
+    max-items: 2
+    fields: [title, description, categories]
+---
+
+Hi, this is Brian. 
+
+This is my personal space for organizing my thoughts & exploring ideas around data science, ML, and AI. 
+
+I keep notes on what I'm building, share experiments and useful discoveries, and occasionally write about interests beyond programming.
+
+This site is a working notebook & a brief pause in between our weekdays. 
+
+
+[Find me on GitHub](https://github.com/snowoflondon).
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/bjp/)
+
+This website is hosted on Github Pages and built with Quarto.
+
+The initial scaffolding was generated with Codex.
+
+Every piece of *writing* here is written by me, unless specifically noted. 
+As an avid writer, I believe in authoring content with no generative AI involved.
+Of course, for AI projects & codebases, I will generate docs (READMEs, etc.), code (if appropriate)
+, and reusable agent skills using LLMs. I typically use OpenAI's Codex. This will be noted.
+
+My typical tech stack is: VS code + Python + Codex. 
+
+
+## Recent writing
+
+::: {#recent-writing}
+:::
+
+[All writing →](writing/index.qmd)
+
+## Selected projects
+
+::: {#selected-projects}
+:::
+
+[All projects →](projects.qmd)

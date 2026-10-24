@@ -1,0 +1,15 @@
+---
+title: Writing.
+description: "Technical notes, experiments, and occasional reflections."
+listing:
+  contents: posts/*/index.qmd
+  sort: "date desc"
+  fields: [title, date, description, categories]
+  categories: true
+  date-format: "D MMM YYYY"
+  feed: true
+---
+
+Notes from building and learning, with room for thoughts beyond code.
+
+[Subscribe via RSS](index.xml)

@@ -1,0 +1,33 @@
+---
+title: "Everyday-R"
+description: "An open-source book on practical R programming for data scientists."
+categories: [R, bookdown, Data Science]
+---
+
+**Status:** In Progress  
+**Technologies:** R, R Markdown, bookdown
+
+[Read the book here](https://bookdown.org/brianjmpark/everydayR/) ·
+[View source on GitHub](https://github.com/snowoflondon/everyday-r)
+
+## About the project
+
+`Everyday-R` is a collection of practical examples and walkthroughs for learning R in the context of every tasks in data science, compiled into an open-source book using bookdown.
+
+Topics include data wrangling, iteration, exploratory data analysis, and classification and regression models.
+
+This project initially started as a personal reference notebook, but I wanted to compile my notes into one place for other R programmers.
+This project predates modern LLMs. Everything was manually written.
+As such, there is an increasingly accesible and abundant learning resoures for the content covered in this project.
+It's also undeniable that manual coding as covered in this book is on the downturn. 
+However, I think there is still value in documenting *cool things you learn* and sharing it to others.
+
+## Brief glance at topics covered
+1. Introduction
+2. Everyday data wrangling
+3. Everyday Iterations
+4. Interlude I: A brief glimpse into data.table
+5. Everyday exploratory data analysis
+6. Everyday ML: Classification
+7. Everyday ML: Regression
+

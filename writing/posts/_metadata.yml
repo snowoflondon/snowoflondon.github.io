@@ -1,0 +1,5 @@
+# Shared defaults for posts. Override these in an individual post's front matter.
+format:
+  html:
+    toc: false
+    title-block-banner: false

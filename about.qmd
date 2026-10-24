@@ -1,0 +1,33 @@
+---
+title: About
+---
+
+Lifelong learner, programmer, AI enthusiast, writer, and a fan of data analytics.
+
+## Publications
+
+Once upon a time, I used to work in scientific research. Here are the publications I've worked on and have lead-authored.
+
+[Utilization of Cancer Cell Line Screening to Elucidate the Anticancer Activity and Biological Pathways Related to the Ruthenium-Based Therapeutic BOLD-100](https://pubmed.ncbi.nlm.nih.gov/36612025/)
+
+[Leveraging Morphological Profiling for Mechanistic Elucidation of Metal-Based Anticancer Compounds](https://pubmed.ncbi.nlm.nih.gov/42529348/)
+
+
+## Life history
+
+McGill University (Montréal).
+
+University of Toronto (Toronto).
+
+Bold Therapeutics Inc (Vancouver).
+
+Scotiabank (Toronto).
+
+
+## Contact
+
+[GitHub](https://github.com/snowoflondon)
+
+[LinkedIn](https://www.linkedin.com/in/bjp/)
+
+

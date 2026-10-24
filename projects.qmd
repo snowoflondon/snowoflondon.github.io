@@ -1,0 +1,11 @@
+---
+title: Projects.
+description: "Experiments, small tools, and open-source work."
+listing:
+  contents: projects/*/index.qmd
+  type: grid
+  fields: [title, description, categories]
+  sort: title
+---
+
+A place to collect things I'm building and the lessons behind them.

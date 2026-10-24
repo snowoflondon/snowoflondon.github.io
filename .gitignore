@@ -1,0 +1,12 @@
+# Quarto build output and local caches
+/_site/
+/.quarto/
+**/*_cache/
+**/.ipynb_checkpoints/
+
+# Local OS and editor state
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+
+**/*.quarto_ipynb

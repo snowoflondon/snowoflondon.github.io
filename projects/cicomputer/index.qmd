@@ -1,0 +1,29 @@
+---
+title: "CIComputeR"
+description: "An R Shiny application for calculating the Chou–Talalay Combination Index for two-drug combinations."
+categories: [R, Shiny, Data Analysis]
+---
+
+**Status:** Completed  
+**Technologies:** R, Shiny, dplyr, tidyr, DT
+
+[View source on GitHub](https://github.com/snowoflondon/CIComputeR_WEB) ·
+[Hosted application on shinyapps](https://brianjmpark.shinyapps.io/cicomputer/)
+
+## About the project
+
+CIComputeR is a Shiny application for computing the Chou–Talalay Combination Index (CI) from two-drug combination experiments. It provides a web interface for exploring synergistic, additive, or antagonistic effects using drug concentration and cell response measurements.
+
+I've worked on this project when I worked as a data scientist in the pharmaceutical industry. It is lightweight and built using `tidyverse` syntax in R. 
+
+## What does it do?
+
+Input data is an Excel spreadsheet. The application provides a downloadable example.
+
+- **Single analysis:** accepts data for one drug pair and produces a table of effect sizes and calculated CI values.
+- **Batch analysis:** processes multiple drug pairs using an identifier column to distinguish each pair.
+- **Input options:** accepts cell viability or inhibition measurements expressed as decimals or percentages.
+
+## Implementation
+
+The application is written in R with a Shiny interface. It's hosted on `shinyapps.`
