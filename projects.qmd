@@ -1,6 +1,6 @@
 ---
 title: Projects.
-description: "Experiments, small tools, and open-source work."
+subtitle: "A place for experiments, lightweight tools, and open-source work."
 listing:
   contents: projects/*/index.qmd
   type: grid

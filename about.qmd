@@ -1,8 +1,10 @@
 ---
-title: About
+title: About.
+subtitle: A brief history.
 ---
 
 Lifelong learner, programmer, AI enthusiast, writer, and a fan of data analytics.
+
 
 ## Publications
 
@@ -24,10 +26,15 @@ Bold Therapeutics Inc (Vancouver).
 Scotiabank (Toronto).
 
 
+## Current interests
+
+Agentic AI. MLOps & AgentOps. Knowledge Retrieval. 
+
+Football (the European kind). Tottenham Hotspur. Fantasy PL. 
+
+
 ## Contact
 
 [GitHub](https://github.com/snowoflondon)
 
 [LinkedIn](https://www.linkedin.com/in/bjp/)
-
-

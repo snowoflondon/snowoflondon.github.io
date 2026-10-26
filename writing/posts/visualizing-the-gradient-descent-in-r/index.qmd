@@ -6,6 +6,8 @@ categories: ["R", "Statistics", "Machine Learning"]
 toc: true
 ---
 
+*Note: the original post was written and published on my previous site. This was re-posted here in 2026.*
+
 The general idea of the gradient descent is to iteratively tweak parameters with the goal of minimizing a loss function. In the case of a linear regression model, the loss function is simply described by the mean-squared-error (MSE) - which is essentially the sum of squared residuals. The parameters to tweak in such a model would be the slope and the intercept of the regression line. 
 
 MSE is described by a quadratic function; this means that the further away you are from the minimum point, the steeper the slope. The concept of the gradient descent is to tweak the tangent line (which is described by the slope and the intercept) by some value (also known as the 'learning rate') until we've hit the inflection point of the parabola, that is, the minimum value of the loss function. A classic visualizer for the above problem is the ball rolling down the parabolic curve until it settles at the foot of the hill. 

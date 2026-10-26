@@ -6,6 +6,8 @@ categories: [R, Statistics, Machine Learning]
 toc: true
 ---
 
+*Note: the original post was written and published on my previous site. This was re-posted here in 2026.*
+
 ## Distance and divergence
 
 In unsupervised learning, the concept of statistical distance is often used. For instance, multi-dimensional scaling (MDS) reduces the dimensionality of original data while trying to preserve the distances between the instances. In hierarchical clustering, distances between data points are computed using a variety of metrics such as Euclidean, Manhattan, and Minkowski distances. Distance metrics are especially useful when trying to preserve local relationships while projecting data into a lower dimension. 

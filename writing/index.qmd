@@ -1,6 +1,6 @@
 ---
 title: Writing.
-description: "Technical notes, experiments, and occasional reflections."
+subtitle: "A place for notes, thoughts, and variable reflections."
 listing:
   contents: posts/*/index.qmd
   sort: "date desc"

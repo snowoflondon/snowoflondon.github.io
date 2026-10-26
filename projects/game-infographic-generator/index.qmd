@@ -14,7 +14,7 @@ categories: [Python, AI, Data Visualization]
 
 **AI content:** This project uses OpenAI's Codex.
 
-Game Infographic Generator (placeholer name) uses game research, structured metadata contract, and HTML/CSS to create portrait infographics for user-requested games.
+Game Infographic Generator (placeholder name) uses game research, structured metadata contract, and HTML/CSS to create portrait infographics for user-requested games.
 
 Game research is agent-assisted and saved as structured JSON file. Pydantic validates that metadata, then renders it into an image using Jinja2 templates, HTML/CSS, and Playwright Chromium. 
 Research and rendering are two separate steps.

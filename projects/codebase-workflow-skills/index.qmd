@@ -1,0 +1,27 @@
+---
+title: "Codebase Workflow Skills"
+order: 2
+description: "Reusable agent skills for investigating codebases, planning changes, and communicating evidence-based findings."
+categories: [AI, Developer Tools, Software Development]
+---
+
+**Status:** In Progress  
+**Technologies:** Markdown, Agent Skills
+
+[View source on GitHub](https://github.com/snowoflondon/codebase-workflow-skills)
+
+## About the project
+
+Codebase Workflow Skills is a collection of reusable agent skills for common software-engineering workflows. The skills help investigate a repository, reason about proposed changes, and communicate findings grounded in project evidence.
+
+Invoke them during typical workflows by making them discoverable by coding agents such as Codex and GitHub Copilot. 
+
+## Workflows covered
+
+The collection contains seven skills covering repository understanding, change planning, architecture visualization, test design, code review, documentation assessment, and Git change summaries.
+
+Each skill can be used independently, depending on the task. The shared approach emphasizes scoped investigation, evidence-based findings, and read-only behavior by default.
+
+## Current state
+
+This project is an initial proof of concept. All seven skills have defined workflows. Setup and invocation tooling are not yet included.

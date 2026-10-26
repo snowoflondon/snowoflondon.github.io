@@ -6,6 +6,8 @@ categories: [Statistics, Machine Learning, Python]
 toc: true
 ---
 
+*Note: the original post was written and published on my previous site. This was re-posted here in 2026.*
+
 ## Bias and variance
 
 The bias-variance tradeoff describes the problem in balancing the two types of errors in supervised learning models. This conflict arises from the model's estimated parameters learned from the training data and its ability to generalize beyond this data. In short, *bias* describes the assumptions made by the model in regards to the target function; a low-bias model makes less assumptions while a high-bias one makes more. High-bias models are generally less flexible for this reason. Examples of such models include linear models and logistic regression.

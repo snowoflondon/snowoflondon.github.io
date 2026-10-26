@@ -27,14 +27,16 @@ website:
         aria-label: GitHub profile
   search: true
   page-footer:
-    left: "© 2026 [Your name]."
+    left: "© 2026 Brian Jungmin Park."
     right:
       - text: GitHub
         href: https://github.com/snowoflondon
 
 format:
   html:
-    theme: litera
+    theme:
+      - litera
+      - typography.scss
     css: styles.css
     lang: en
     toc: false

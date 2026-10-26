@@ -6,6 +6,8 @@ categories: ["Python", "Machine Learning"]
 toc: true
 ---
 
+*Note: the original post was written and published on my previous site. This was re-posted here in 2026.*
+
 The problem of unbalanced datasets is persistent in many data science projects. The most classic example of this issue - as repeatedly iterated in many data science books - is building a classifier model for fraud transaction detection. In such cases, the rate of occurrence for a *hit* (i.e., a fradulent case) in the entire dataset may be as small as >1% of total cases. How do we deal with this?
 
 

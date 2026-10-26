@@ -6,6 +6,8 @@ categories: ["Python", "Machine Learning"]
 toc: true
 ---
 
+*Note: the original post was written and published on my previous site. This was re-posted here in 2026.*
+
 Prior to constructing a machine learning model, several things need to be considered. In a typical ML dataset for classification or regression problems, rows comprise of samples and columns of predictors. These predictor columns are collectively called 'features', which describe some measurements that describe the sample in the problem domain. In real life problems, it is sometimes not feasible to train a ML model on the dataset as-is. 
 
 In some cases, an important predictor variable is excluded in the dataset. This excluded variable is termed a *confounding variable* and its exclusion may result in uninterpretable results. In other cases, several predictors have similar predictive relationship with the variable we're trying to predict - this is the issue of *collinearity* or *multicollinearity*. A perfect multicollinearity occurs when two predictor variables are linear combinations of one another. 

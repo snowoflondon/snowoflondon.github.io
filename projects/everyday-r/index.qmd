@@ -1,6 +1,6 @@
 ---
 title: "Everyday-R"
-order: 2
+order: 3
 description: "An open-source book on practical R programming for data scientists."
 categories: [R, bookdown, Data Science]
 ---

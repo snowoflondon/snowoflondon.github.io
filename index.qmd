@@ -1,6 +1,7 @@
 ---
 title: "Interlude."
-subtitle: "[*noun*] A short pause or intervening period between activities."
+pagetitle: "Brian Jungmin Park — Developer & Data Science Notebook"
+subtitle: "[*noun*]: A short pause or intervening period between activities."
 listing:
   - id: recent-writing
     contents: writing/posts/*/index.qmd
@@ -15,7 +16,7 @@ listing:
     fields: [title, description, categories]
 ---
 
-Hi, this is Brian. 
+Hi, this is Brian Jungmin Park. 
 
 This is my personal space for organizing my thoughts & exploring ideas around data science, ML, and AI. 
 
@@ -28,7 +29,7 @@ This site is a working notebook & a brief pause in between our weekdays.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/bjp/)
 
-This website is hosted on Github Pages and built with Quarto.
+This website is hosted on GitHub Pages and built with Quarto.
 
 The initial scaffolding was generated with Codex.
 

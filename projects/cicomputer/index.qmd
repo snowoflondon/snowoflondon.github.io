@@ -1,6 +1,6 @@
 ---
 title: "CIComputeR"
-order: 3
+order: 4
 description: "An R Shiny application for calculating the Chou–Talalay Combination Index for two-drug combinations."
 categories: [R, Shiny, Data Analysis]
 ---
