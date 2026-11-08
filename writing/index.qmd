@@ -10,6 +10,4 @@ listing:
   feed: true
 ---
 
-Notes from building and learning, with room for thoughts beyond code.
-
 [Subscribe via RSS](index.xml)

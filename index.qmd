@@ -35,8 +35,7 @@ The initial scaffolding was generated with Codex.
 
 Every piece of *writing* here is written by me, unless specifically noted. 
 As an avid writer, I believe in authoring content with no generative AI involved.
-Of course, for AI projects & codebases, I will generate docs (READMEs, etc.), code (if appropriate)
-, and reusable agent skills using LLMs. I typically use OpenAI's Codex. This will be noted.
+Of course, for AI projects & codebases, I will generate docs (READMEs, etc.), code (if appropriate), and reusable agent skills using LLMs. I typically use OpenAI's Codex. This will be noted.
 
 My typical tech stack is: VS code + Python + Codex. 
 
