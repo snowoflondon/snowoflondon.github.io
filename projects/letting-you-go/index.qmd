@@ -29,6 +29,4 @@ Write a worry, hold a balloon, and release it when ready. The balloon floats thr
 
 ## See it in action
 
-Try it yourself [here](https://snowoflondon.github.io/letting-you-go/). See below for a screenshot. 
-
-![](screenshot.png){width=432 fig-alt="Letting You Go: a red balloon held above a city skyline beneath the heading What will you let go?, with a text field for writing a worry."}
+Try it yourself [here](https://snowoflondon.github.io/letting-you-go/). 

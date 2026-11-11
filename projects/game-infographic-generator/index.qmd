@@ -40,6 +40,6 @@ It demonstrates the single game layout with representative artwork, game details
 
 ![Generated NieR:Automata infographic showing game artwork, release and platform details, a review score, player perspectives, and similar games.](nier-automata-infographic.png){width=100%}
 
-[Open the full-size infographic](nier-automata-infographic.png)
+[Open the full-size infographic.](nier-automata-infographic.png)
 
 Game artwork source: [Square Enix’s NieR:Automata post on PlayStation Blog](https://blog.playstation.com/2016/12/22/nier-automata-demo-out-today-on-playstation-store/). Artwork copyright remains with its respective rights holders.

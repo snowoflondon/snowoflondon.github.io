@@ -27,7 +27,7 @@ This site is a working notebook & a brief pause in between our weekdays.
 
 [Find me on GitHub](https://github.com/snowoflondon).
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/bjp/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/bjp/).
 
 This website is hosted on GitHub Pages and built with Quarto.
 
